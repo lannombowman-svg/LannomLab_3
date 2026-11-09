@@ -20,8 +20,8 @@ The Student Grade Calculator is a C++ program that calculates a student's averag
 - Grade: B
 
 ## Team Members
-- [Lannom — enter full name]
-- [Andres — enter full name]
+- [Lannom Bowman]
+- [Andres Perez]
 
 ## Notes and Limitations
 - The program only accepts three exam scores.
